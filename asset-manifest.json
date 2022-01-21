@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wzrPlus/static/css/main.1257f2c8.css",
+    "main.js": "/wzrPlus/static/js/main.67571be6.js",
+    "static/js/849.ef0b36f8.chunk.js": "/wzrPlus/static/js/849.ef0b36f8.chunk.js",
+    "static/js/855.1ff016d6.chunk.js": "/wzrPlus/static/js/855.1ff016d6.chunk.js",
+    "static/js/124.7a812d54.chunk.js": "/wzrPlus/static/js/124.7a812d54.chunk.js",
+    "static/js/787.e3707d93.chunk.js": "/wzrPlus/static/js/787.e3707d93.chunk.js",
+    "static/media/firefoxLogo.svg": "/wzrPlus/static/media/firefoxLogo.5780481b482ca834576e.svg",
+    "static/media/chromeLogo.svg": "/wzrPlus/static/media/chromeLogo.723c8e758066868f0dcd.svg",
+    "static/media/edgeLogo.svg": "/wzrPlus/static/media/edgeLogo.4f98c509803e358c9221.svg",
+    "index.html": "/wzrPlus/index.html",
+    "static/media/wzrBackground.svg": "/wzrPlus/static/media/wzrBackground.5710d39b09c640a09e55.svg",
+    "main.1257f2c8.css.map": "/wzrPlus/static/css/main.1257f2c8.css.map",
+    "main.67571be6.js.map": "/wzrPlus/static/js/main.67571be6.js.map",
+    "787.e3707d93.chunk.js.map": "/wzrPlus/static/js/787.e3707d93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1257f2c8.css",
+    "static/js/main.67571be6.js"
+  ]
+}

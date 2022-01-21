@@ -1,0 +1,35 @@
+{
+  "short_name": "WZR Plus",
+  "name": "WZR Plus Center",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "wzrPlus16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "wzrPlus32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "wzrPlus48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "wzrPlus128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F8F8F8",
+  "background_color": "#F8F8F8"
+}

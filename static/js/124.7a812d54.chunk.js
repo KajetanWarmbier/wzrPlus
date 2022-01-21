@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwzr_plus_site=self.webpackChunkwzr_plus_site||[]).push([[124],{124:function(s,e,t){s.exports=t.p+"static/media/firefoxLogo.5780481b482ca834576e.svg"}}]);
